@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run SaucedemoRunner",
+      "type": "shell",
+      "command": "mvn",
+      "args": [
+        "clean",
+        "verify",
+        "-Dtest=co.com.saucedemo.runners.RunnerTest"
+      ],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

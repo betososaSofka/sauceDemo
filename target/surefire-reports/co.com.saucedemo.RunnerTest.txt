@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.com.saucedemo.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.342 s - in co.com.saucedemo.RunnerTest

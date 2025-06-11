@@ -1,0 +1,6 @@
+co/com/saucedemo/pages/CartPage.class
+co/com/saucedemo/pages/ProductPage.class
+co/com/saucedemo/stepdefinitions/CompraSteps.class
+co/com/saucedemo/RunnerTest.class
+co/com/saucedemo/pages/CheckoutPage.class
+co/com/saucedemo/pages/LoginPage.class
