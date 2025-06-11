@@ -52,5 +52,6 @@ target/site/serenity/index.html
 
 **Imagen del reporte**
 
-<img width="670" alt="Captura de pantalla 2025-05-29 a la(s) 9 15 43 p m" src="https://github.com/user-attachments/assets/35616586-49e4-4ff7-81ee-b588e2b1f06f" />
+![Captura de pantalla 2025-06-11 a la(s) 4 47 31 p m](https://github.com/user-attachments/assets/0db5df1e-f931-46b3-81b4-5a63105d638d)
+
 
