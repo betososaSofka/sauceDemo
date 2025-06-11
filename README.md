@@ -41,5 +41,16 @@ Asegúrate de tener lo siguiente instalado en tu sistema:
 	mvn clean verify -Dtest=co.com.saucedemo.RunnerTest
 
 ## Reportes
-
+**Ubicación del reporte**
 target/site/serenity/index.html
+
+## Evidencia de Ejecución
+
+**Terminal con ejecución de pruebas**
+
+![Captura de pantalla 2025-06-11 a la(s) 4 46 41 p m](https://github.com/user-attachments/assets/8cedce5a-1228-4a2f-a95e-94cfaf3bca22)
+
+**Imagen del reporte**
+
+<img width="670" alt="Captura de pantalla 2025-05-29 a la(s) 9 15 43 p m" src="https://github.com/user-attachments/assets/35616586-49e4-4ff7-81ee-b588e2b1f06f" />
+
